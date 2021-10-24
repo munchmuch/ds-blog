@@ -429,40 +429,122 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-html, body, input, textarea, select, button { color: rgba(255, 255, 255, 0.87) !important; background-color: #121212 !important; }
+.highlight .c { color: #545454; font-style: italic; }
 
-a { color: #4bbaff !important; }
+.highlight .err { color: #f07178; background-color: #e3d2d2; }
 
-a:hover { color: rgba(255, 255, 255, 0.87) !important; }
+.highlight .k { color: #89DDFF; font-weight: bold; }
 
-.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
+.highlight .o { font-weight: bold; }
 
-.site-nav { background-color: #121212; border-color: #333333; }
+.highlight .cm { color: #545454; font-style: italic; }
 
-* { scrollbar-color: #121212 #333333; }
+.highlight .cp { color: #545454; font-weight: bold; }
 
-pre, code { border-color: #333333; background-color: #1e1e1e; }
+.highlight .c1 { color: #545454; font-style: italic; }
 
-.page-description { color: rgba(255, 255, 255, 0.69); }
+.highlight .cs { color: #545454; font-weight: bold; font-style: italic; }
 
-.post-meta { color: rgba(255, 255, 255, 0.38); }
+.highlight .gd { color: #000; background-color: #fdd; }
 
-.post-content p, .post-content li { color: rgba(255, 255, 255, 0.69); }
+.highlight .gd .x { color: #000; background-color: #faa; }
 
-.btn { background-color: #1e1e1e !important; color: rgba(255, 255, 255, 0.87) !important; border-color: #333333 !important; }
+.highlight .ge { font-style: italic; }
 
-.btn:hover { background-color: #121212 !important; }
+.highlight .gr { color: #f07178; }
 
-table th { background-color: #1e1e1e; border-color: #333333; color: rgba(255, 255, 255, 0.87); }
+.highlight .gh { color: #999; }
 
-table td { background-color: #121212; border-color: #333333; color: rgba(255, 255, 255, 0.69); }
+.highlight .gi { color: #000; background-color: #dfd; }
 
-.flash { color: #121212 !important; filter: brightness(80%); }
+.highlight .gi .x { color: #000; background-color: #afa; }
 
-canvas { filter: invert(100%); }
+.highlight .go { color: #888; }
 
-.post-list > li > div { box-shadow: none !important; background-color: #1e1e1e; border: none !important; }
+.highlight .gp { color: #555; }
 
-li .post-meta-description { color: rgba(255, 255, 255, 0.69) !important; }
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: #aaa; }
+
+.highlight .gt { color: #f07178; }
+
+.highlight .kc { font-weight: bold; }
+
+.highlight .kd { font-weight: bold; }
+
+.highlight .kp { font-weight: bold; }
+
+.highlight .kr { font-weight: bold; }
+
+.highlight .kt { color: #FFCB6B; font-weight: bold; }
+
+.highlight .m { color: #F78C6C; }
+
+.highlight .s { color: #C3E88D; }
+
+.highlight .na { color: #008080; }
+
+.highlight .nb { color: #EEFFFF; }
+
+.highlight .nc { color: #FFCB6B; font-weight: bold; }
+
+.highlight .no { color: #008080; }
+
+.highlight .ni { color: #800080; }
+
+.highlight .ne { color: #900; font-weight: bold; }
+
+.highlight .nf { color: #82AAFF; font-weight: bold; }
+
+.highlight .nn { color: #555; }
+
+.highlight .nt { color: #FFCB6B; }
+
+.highlight .nv { color: #EEFFFF; }
+
+.highlight .ow { font-weight: bold; }
+
+.highlight .w { color: #EEFFFF; }
+
+.highlight .mf { color: #F78C6C; }
+
+.highlight .mh { color: #F78C6C; }
+
+.highlight .mi { color: #F78C6C; }
+
+.highlight .mo { color: #F78C6C; }
+
+.highlight .sb { color: #C3E88D; }
+
+.highlight .sc { color: #C3E88D; }
+
+.highlight .sd { color: #C3E88D; }
+
+.highlight .s2 { color: #C3E88D; }
+
+.highlight .se { color: #EEFFFF; }
+
+.highlight .sh { color: #C3E88D; }
+
+.highlight .si { color: #C3E88D; }
+
+.highlight .sx { color: #C3E88D; }
+
+.highlight .sr { color: #C3E88D; }
+
+.highlight .s1 { color: #C3E88D; }
+
+.highlight .ss { color: #C3E88D; }
+
+.highlight .bp { color: #999; }
+
+.highlight .vc { color: #FFCB6B; }
+
+.highlight .vg { color: #EEFFFF; }
+
+.highlight .vi { color: #EEFFFF; }
+
+.highlight .il { color: #F78C6C; }
 
 /*# sourceMappingURL=style.css.map */
